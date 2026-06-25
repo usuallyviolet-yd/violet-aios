@@ -47,7 +47,7 @@ LICENSE.md
     └── Inbox.md
 
 
-20_PROJECTS/
+20_PRODUCTS/
 
 ├── Portfolio/
 │   ├── AI_Project_01.md
