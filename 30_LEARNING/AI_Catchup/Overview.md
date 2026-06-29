@@ -206,13 +206,13 @@ Instead of relying on a single platform, each tool has a dedicated responsibilit
                     │
        ┌────────────┼────────────┐
        │            │            │
-   Obsidian      GitHub     NotebookLM
+Google Drive   GitHub     NotebookLM
    Thinking      Truth      AI Research
 ```
 
 ---
 
-## Obsidian
+## Google Drive
 
 Purpose:
 
@@ -229,7 +229,7 @@ Stores:
 - Company Research
 - Reflections
 
-Obsidian is my second brain.
+Google Drive is my second brain.
 
 ---
 
@@ -303,7 +303,7 @@ Build
 
 ↓
 
-Obsidian
+Google Drive
 
 ↓
 
