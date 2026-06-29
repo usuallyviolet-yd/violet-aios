@@ -206,8 +206,8 @@ Instead of relying on a single platform, each tool has a dedicated responsibilit
                     │
        ┌────────────┼────────────┐
        │            │            │
-Google Drive   GitHub     NotebookLM
-   Thinking      Truth      AI Research
+Google Drive     GitHub     NotebookLM
+   Thinking       Truth     AI Research
 ```
 
 ---
@@ -229,7 +229,7 @@ Stores:
 - Company Research
 - Reflections
 
-Google Drive is my second brain.
+Google Drive is my second brain for short-term.
 
 ---
 
@@ -247,7 +247,7 @@ Stores:
 - Documentation
 - Public Portfolio
 
-GitHub manages version history and serves as my public knowledge repository.
+GitHub is my second brain for long-term and serves as my public knowledge repository.
 
 ---
 
