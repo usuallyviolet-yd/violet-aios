@@ -4,12 +4,14 @@ violet-aios/
 Violet AIOS Architecture
 
                 VioletOS
-
                      │
        ┌─────────────┼────────────┐
        │             │            │
 Google Drive      GitHub       NotebookLM
 Thinking, Input    Truth    AI Research, Output
+
+
+
 
 README.md
 LICENSE.md
