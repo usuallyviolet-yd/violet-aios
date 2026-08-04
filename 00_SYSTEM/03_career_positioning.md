@@ -1,1 +1,1 @@
-
+AI Product GTM & Adoption leader with experience turning complex AI capabilities into intuitive professional workflows, measurable user adoption, and scalable go-to-market strategies across China, North America, and the Middle East.
