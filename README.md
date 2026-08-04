@@ -3,6 +3,7 @@ violet-aios/
 
 Violet AIOS Architecture
 
+```
                 VioletOS
 
                     │
@@ -10,6 +11,9 @@ Violet AIOS Architecture
        │            │            │
 Google Drive     GitHub     NotebookLM
    Thinking       Truth     AI Research
+```
+
+---
 
 
 
