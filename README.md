@@ -10,7 +10,7 @@ Violet AIOS Architecture
        ┌────────────┼────────────┐
        │            │            │
 Google Drive     GitHub     NotebookLM
-Thinking,Input    Truth    AI Research, Output
+Thinking,Input    Truth    AI Research,Output
 ```
 
 ---
